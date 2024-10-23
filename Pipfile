@@ -1,0 +1,26 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyjokes = "*"
+requests = "*"
+pillow = "*"
+gtts = "*"
+playsound = "*"
+openai = "*"
+pyttsx3 = "*"
+pynput = "*"
+face-recognition-module = "*"
+voice-recognition-module = "*"
+clearance-module = "*"
+content-scanner-module = "*"
+learning-module = "*"
+github-learner = "*"
+app-learner = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
